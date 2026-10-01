@@ -52,20 +52,31 @@ You need Flutter \*\*3.47.5\*\* and Dart \*\*3.13.4\*\*.
 
 
 Time Estimate:
+
 setup:2 hrs
+
 architecture:4-6hrs
+
 ui:2hrs
+
 functionality and features:5hrs
+
 testing:1.5 hr
 
+
 Tools used:
+
 Android studio
+
 Dart
+
 APis
+
 Git
 
 
 Ai used
+
 Codex for architecture building, testing,debouncing,fixing errors,ui for non responsive funtions
 
 
