@@ -2,8 +2,7 @@
 
 
 
-Wanderly helps travelers explore a destination, plan visits, and check the weather for their trip dates.
-
+Wanderly Helps travellers to plan a trip to a country for vacation with no burden of weather messsing their time in vacation,this app shows the weathers app data and predict the weathers during your selcted time of travel.Wanderly helps travelers plan a vacation with less guesswork. Search for a country, explore its attractions and hotels, save planned visits and stays, and check the forecast for your travel dates when available. Previously loaded destination results can also be viewed offline.
 
 
 \## What you can do
@@ -12,7 +11,7 @@ search for country as destination
 
 choose the hotel and place too book
 
-can assign dates according to your schedule
+can assign dates according to your schedule and also be aware of weather condition predicted to your selected time of travel
 
 
 \## Data and APIs
